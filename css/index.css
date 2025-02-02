@@ -1,0 +1,17 @@
+.container{
+    
+    text-align: center;
+
+}
+
+input{
+    width:200px;
+    margin: 0px;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
+
+
